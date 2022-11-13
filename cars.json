@@ -1,0 +1,81 @@
+[
+{
+
+"name": "Tata Altroz",
+"image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Altroz/7247/1578642800962/front-left-side-47.jpg?tr=w-456",
+"rentPerHour": 500,
+"fuelType": "petrol",
+"bookedTimeSlots": [],
+"capacity": 5
+},
+{
+
+"name": "Mahindra XUV700",
+"image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Mahindra/XUV700/8620/1633939302512/front-left-side-47.jpg?tr=w-456",
+"rentPerHour": 500,
+"fuelType": "petrol",
+"bookedTimeSlots": [
+
+],
+"capacity": 5,
+"__v": 2
+},
+{
+
+"name": "Tata Nexon",
+"image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/Creta/6775/1584360708758/front-left-side-47.jpg?tr=w-456",
+"rentPerHour": 500,
+"fuelType": "petrol",
+"bookedTimeSlots": [],
+"capacity": 5
+},
+{
+
+"name": "Huindai i20",
+"image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/i20/6986/1604567349336/front-left-side-47.jpg?tr=w-456",
+"rentPerHour": 500,
+"fuelType": "petrol",
+"bookedTimeSlots": [],
+"capacity": 5
+},
+{
+
+"name": "MG Astor",
+"image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/MG/Astor/7516/1631781165905/front-left-side-47.jpg?tr=w-456",
+"rentPerHour": 500,
+"fuelType": "petrol",
+"bookedTimeSlots": [
+
+],
+"capacity": 5,
+"__v": 1
+},
+{
+
+"name": "Hyundai Creta",
+"image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Mahindra/XUV700/8620/1633939302512/front-left-side-47.jpg?tr=w-456",
+"rentPerHour": 500,
+"fuelType": "petrol",
+"bookedTimeSlots": [],
+"capacity": 5
+},
+{
+
+"name": "Maruti Baleno",
+"image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Baleno/6778/1615985070703/front-left-side-47.jpg?tr=w-456",
+"rentPerHour": 500,
+"fuelType": "petrol",
+"bookedTimeSlots": [],
+"capacity": 5,
+"__v": 2
+},
+{
+
+"name": "Toyota Glanza",
+"image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Toyota/Toyota-Glanza/6902/1559807182519/front-left-side-47.jpg?tr=w-456",
+"rentPerHour": 500,
+"fuelType": "petrol",
+"bookedTimeSlots": [],
+"capacity": 5
+}
+]
